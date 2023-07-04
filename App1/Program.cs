@@ -27,8 +27,6 @@ namespace App1
                 int res = firstValue + SecondValue;
                 return res;
             } 
-
-            // bye bye
         }
     }
 }
