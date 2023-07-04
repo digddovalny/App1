@@ -11,7 +11,6 @@ namespace App1
     {
         static void Main(string[] args)
         {
-            // hello
             Console.WriteLine("Ввдеите первое число");
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе число");
@@ -27,8 +26,6 @@ namespace App1
                 int res = firstValue + SecondValue;
                 return res;
             } 
-
-            // bye bye
         }
     }
 }
